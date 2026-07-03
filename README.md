@@ -58,7 +58,7 @@ Voice-controlled desktop assistant with speech recognition and browser automatio
 ### 🌍 InAmigos Foundation Website
 Responsive NGO awareness website developed during my Web Development Internship.
 
-**HTML • CSS**
+**HTML • CSS  • JavaScript**
 
 ---
 
@@ -74,7 +74,14 @@ Responsive NGO awareness website developed during my Web Development Internship.
 
 ## 📈 GitHub Stats
 
-(Add GitHub Stats cards here)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=areebamakhmoor&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebamakhmoor&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=areebamakhmoor&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 
 ---
 
