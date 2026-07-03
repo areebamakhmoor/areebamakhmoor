@@ -1,229 +1,92 @@
-<h1 align="center">Hi 👋, I'm Areeba Makhmoor</h1>
+# Hi 👋 I'm Areeba Makhmoor
 
-<h3 align="center">
-Software Development Engineer (Aspiring) • Full Stack Developer • BCA Student
-</h3>
+### Aspiring Software Development Engineer (SDE) | BCA Student | Full Stack Developer
 
-<p align="center">
-I love building clean, responsive web applications and solving real-world problems through software.
-</p>
+🎓 BCA (5th Semester), Trinity Institute of Professional Studies (GGSIPU)
 
----
+⭐ CGPA: 9.7/10
 
-## 👩‍💻 About Me
-
-🎓 BCA Student (5th Semester) at Trinity Institute of Professional Studies (GGSIPU)
-
-⭐ Current CGPA: **9.7/10**
-
-💻 Aspiring Software Development Engineer (SDE)
-
-🌱 Currently learning
-
-- Express.js
-- REST APIs
-- Database DEsign & Optimization
-- Full Stack Development
-- System Design Fundamentals
-- Data Structures & Algorithms
-
-🚀 Passionate about
-
-- Software Engineering
-- Web Development
-- Open Source
-- UI/UX
-- Problem Solving
+💻 Passionate about building scalable web applications and solving real-world problems through software.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+**Languages**
+Python • JavaScript • SQL
 
-- Python
-- JavaScript (ES6+)
-- SQL
+**Frontend**
+HTML • CSS • Responsive Design
 
-### Frontend
+**Backend**
+Node.js • Express.js • REST APIs
 
-- HTML5
-- CSS3
-- Responsive Web Design
-- Flexbox
-- CSS Grid
+**Database**
+MySQL
 
-### Backend
+**Tools**
+Git • GitHub • VS Code • Figma
 
-- Node.js
-- REST APIs
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Figma
-- GitHub Pages
-
-### AI & Computer Vision
-
-- OpenCV
-- Streamlit
-- Prompt Engineering
+**AI**
+OpenCV • Streamlit • Prompt Engineering
 
 ---
 
-# 🚀 Featured Projects
+## 📌 Featured Projects
 
-## 🌍 InAmigos Foundation Website
+### 📰 Python Hacker News Scraper
+Production-style web scraper with retry logic, logging, modular architecture and automated testing.
 
+**Python • BeautifulSoup • Requests • Pytest**
+
+---
+
+### 📝 OMR Evaluation System
+Computer Vision based answer sheet evaluation system built during a 24-hour Hackathon.
+
+**Python • OpenCV • Streamlit**
+
+---
+
+### 🤖 Jarvis AI Assistant
+Voice-controlled desktop assistant with speech recognition and browser automation.
+
+**Python**
+
+---
+
+### 🌍 InAmigos Foundation Website
 Responsive NGO awareness website developed during my Web Development Internship.
 
-### Highlights
-
-- Responsive Design
-- Mobile First
-- Clean UI
-- Cross Browser Compatible
-- GitHub Pages Deployment
-
-🔗 Live Demo:
-https://areebamakhmoor.github.io/inamigos-foundation-website/
-
-🔗 Repository:
-https://github.com/areebamakhmoor/inamigos-foundation-website
+**HTML • CSS**
 
 ---
 
-## ✈ Aurora Trails
+## 🏆 Certifications
 
-Modern Travel Landing Page
+• Google Cloud – Generative AI Fundamentals
 
-✔ Responsive Design
+• IBM SkillBuild – Web Development
 
-✔ Smooth Animations
-
-✔ Modern Layout
-
-✔ Mobile First
+• Microsoft – Prompt Engineering for Developers
 
 ---
 
-## 📝 OMR Evaluation System
+## 📈 GitHub Stats
 
-Computer Vision project built during a 24-hour Hackathon.
-
-Technologies
-
-- Python
-- OpenCV
-- Streamlit
-
-Features
-
-- Automatic Bubble Detection
-
-- Answer Sheet Evaluation
-
-- Result Generation
+(Add GitHub Stats cards here)
 
 ---
 
-## 🤖 Jarvis AI Assistant
+## 📫 Connect
 
-Voice-controlled desktop assistant built using Python.
-
-Features
-
-- Voice Commands
-
-- Browser Automation
-
-- Speech Recognition
-
-- Text to Speech
-
----
-
-# 💼 Internship Experience
-
-### Web Development Intern
-
-**InAmigos Foundation**
-
-Worked on:
-
-- NGO Website Development
-
-- UI/UX Audit Report
-
-- AI Portfolio Website
-
-- Figma Prototype
-
----
-
-# 📜 Certifications
-
-🏆 Google Cloud – Generative AI Fundamentals
-
-🏆 IBM SkillsBuild – Web Development
-
-🏆 Microsoft – Prompt Engineering for Developers
-
----
-
-# 📈 Currently Working On
-
-- Full Stack Development
-
-- Data Structures & Algorithms
-
-- Software Engineering Projects
-
-- Open Source Contributions
-
-- React Ecosystem
-
----
-
-# 🎯 2026 Goals
-
-✅ Build Production-Level Projects
-
-✅ Contribute to Open Source
-
-✅ Strengthen DSA
-
-✅ Crack Software Development Internship
-
----
-
-# 🤝 Connect With Me
-
-📧 Email
-
-areebamakhmoor@gmail.com
+📧 areebamakhmoor@gmail.com
 
 💼 LinkedIn
-
 https://linkedin.com/in/areebamakhmoor
 
 🌐 Portfolio
-
 https://areebamakhmoor-portfolio.lovable.app
 
 💻 GitHub
-
 https://github.com/areebamakhmoor
-
----
-
-<h3 align="center">
-Thanks for visiting my profile ❤️
-</h3>
-
-<p align="center">
-⭐ If you like my work, consider starring my repositories.
-</p>
